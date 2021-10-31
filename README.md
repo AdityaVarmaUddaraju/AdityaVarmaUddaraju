@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **AdityaVarmaUddaraju/AdityaVarmaUddaraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Aditya Varma Uddaraju</h1>
+
+- 🔭 I’m currently working on Artificial Intelligence
+- 🌱 I’m currently learning Fullstack Deeplearning
+- 📫 How to reach me: [Gmail] **adithya951@gmail.com**, [twitter] **@Adityavarma_10**
+- 😄 Pronouns: He/Him
