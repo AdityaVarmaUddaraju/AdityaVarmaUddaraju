@@ -14,10 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Aditya Varma Uddaraju</h1>
 
+<img align="right" width="300" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
+
 - 🔭 I’m currently working on Artificial Intelligence
 - 🌱 I’m currently learning Fullstack Deeplearning
-- 📫 How to reach me: [Gmail] **adithya951@gmail.com**, [twitter] **@Adityavarma_10**
+- 📫 How to reach me: [Gmail] **adithya951@gmail.com**
 - 😄 Pronouns: He/Him
+
+<br>
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://www.linuxfoundation.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v2.png"/> </a>
+    <a href="https://opencv.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/opencv.png"/> </a>
+    <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
+
+</p>
+
+<br>
+
+## GitHub Stats :octocat::
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaVarmaUddaraju&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
