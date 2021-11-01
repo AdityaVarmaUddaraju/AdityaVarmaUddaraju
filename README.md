@@ -44,4 +44,9 @@ Here are some ideas to get you started:
 ## GitHub Stats :octocat::
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaVarmaUddaraju&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
