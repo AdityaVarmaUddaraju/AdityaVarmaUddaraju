@@ -47,6 +47,14 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. 📔 Created new repository [AdityaVarmaUddaraju/RNN_and_LSTM](https://github.com/AdityaVarmaUddaraju/RNN_and_LSTM)
+2. 📔 Created new repository [AdityaVarmaUddaraju/Topic_Modelling](https://github.com/AdityaVarmaUddaraju/Topic_Modelling)
+3. 📔 Created new repository [AdityaVarmaUddaraju/Stock_analysis_based_on_news_headlines](https://github.com/AdityaVarmaUddaraju/Stock_analysis_based_on_news_headlines)
+4. 📔 Created new repository [AdityaVarmaUddaraju/Fake_news_prediction_using_LSTM](https://github.com/AdityaVarmaUddaraju/Fake_news_prediction_using_LSTM)
+5. 📔 Created new repository [AdityaVarmaUddaraju/Fake_News_Prediction_using_LSTM](https://github.com/AdityaVarmaUddaraju/Fake_News_Prediction_using_LSTM)
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Monday, November 1st, 2021, 7:06:06 AM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 
