@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 5. 📔 Created new repository [AdityaVarmaUddaraju/Fake_news_prediction_using_LSTM](https://github.com/AdityaVarmaUddaraju/Fake_news_prediction_using_LSTM)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 12th, 2022, 8:39:00 PM
+Last Updated: Wednesday, January 12th, 2022, 9:09:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
