@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [AdityaVarmaUddaraju/IT_automation_with_python](https://github.com/AdityaVarmaUddaraju/IT_automation_with_python)
-2. 📔 Created new repository [AdityaVarmaUddaraju/RNN_and_LSTM](https://github.com/AdityaVarmaUddaraju/RNN_and_LSTM)
-3. 📔 Created new repository [AdityaVarmaUddaraju/Topic_Modelling](https://github.com/AdityaVarmaUddaraju/Topic_Modelling)
-4. 📔 Created new repository [AdityaVarmaUddaraju/Stock_analysis_based_on_news_headlines](https://github.com/AdityaVarmaUddaraju/Stock_analysis_based_on_news_headlines)
-5. 📔 Created new repository [AdityaVarmaUddaraju/Fake_news_prediction_using_LSTM](https://github.com/AdityaVarmaUddaraju/Fake_news_prediction_using_LSTM)
+1. 🔱 Forked [AdityaVarmaUddaraju/open-pixel-art](https://github.com/AdityaVarmaUddaraju/open-pixel-art) from [twilio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art)
+2. 📔 Created new repository [AdityaVarmaUddaraju/IT_automation_with_python](https://github.com/AdityaVarmaUddaraju/IT_automation_with_python)
+3. 📔 Created new repository [AdityaVarmaUddaraju/RNN_and_LSTM](https://github.com/AdityaVarmaUddaraju/RNN_and_LSTM)
+4. 📔 Created new repository [AdityaVarmaUddaraju/Topic_Modelling](https://github.com/AdityaVarmaUddaraju/Topic_Modelling)
+5. 📔 Created new repository [AdityaVarmaUddaraju/Stock_analysis_based_on_news_headlines](https://github.com/AdityaVarmaUddaraju/Stock_analysis_based_on_news_headlines)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 14th, 2022, 5:36:29 AM
+Last Updated: Friday, January 14th, 2022, 6:12:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
