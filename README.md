@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [AdityaVarmaUddaraju/Message-Board-App](https://github.com/AdityaVarmaUddaraju/Message-Board-App)
-2. 📔 Created new repository [AdityaVarmaUddaraju/Pages-app](https://github.com/AdityaVarmaUddaraju/Pages-app)
-3. 📔 Created new repository [AdityaVarmaUddaraju/django-hello-world](https://github.com/AdityaVarmaUddaraju/django-hello-world)
-4. 📔 Created new repository [AdityaVarmaUddaraju/ttd-with-django](https://github.com/AdityaVarmaUddaraju/ttd-with-django)
-5. 📔 Created new repository [AdityaVarmaUddaraju/docker-basics](https://github.com/AdityaVarmaUddaraju/docker-basics)
+1. 📔 Created new repository [AdityaVarmaUddaraju/Blog-app](https://github.com/AdityaVarmaUddaraju/Blog-app)
+2. 📔 Created new repository [AdityaVarmaUddaraju/Message-Board-App](https://github.com/AdityaVarmaUddaraju/Message-Board-App)
+3. 📔 Created new repository [AdityaVarmaUddaraju/Pages-app](https://github.com/AdityaVarmaUddaraju/Pages-app)
+4. 📔 Created new repository [AdityaVarmaUddaraju/django-hello-world](https://github.com/AdityaVarmaUddaraju/django-hello-world)
+5. 📔 Created new repository [AdityaVarmaUddaraju/ttd-with-django](https://github.com/AdityaVarmaUddaraju/ttd-with-django)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 27th, 2022, 7:08:32 PM
+Last Updated: Sunday, March 27th, 2022, 7:33:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
