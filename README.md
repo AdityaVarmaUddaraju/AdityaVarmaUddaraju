@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [AdityaVarmaUddaraju/django-hello-world](https://github.com/AdityaVarmaUddaraju/django-hello-world)
-2. 📔 Created new repository [AdityaVarmaUddaraju/ttd-with-django](https://github.com/AdityaVarmaUddaraju/ttd-with-django)
-3. 📔 Created new repository [AdityaVarmaUddaraju/docker-basics](https://github.com/AdityaVarmaUddaraju/docker-basics)
-4. 📔 Created new repository [AdityaVarmaUddaraju/Booking-app](https://github.com/AdityaVarmaUddaraju/Booking-app)
-5. 📔 Created new repository [AdityaVarmaUddaraju/dlf](https://github.com/AdityaVarmaUddaraju/dlf)
+1. 📔 Created new repository [AdityaVarmaUddaraju/Pages-app](https://github.com/AdityaVarmaUddaraju/Pages-app)
+2. 📔 Created new repository [AdityaVarmaUddaraju/django-hello-world](https://github.com/AdityaVarmaUddaraju/django-hello-world)
+3. 📔 Created new repository [AdityaVarmaUddaraju/ttd-with-django](https://github.com/AdityaVarmaUddaraju/ttd-with-django)
+4. 📔 Created new repository [AdityaVarmaUddaraju/docker-basics](https://github.com/AdityaVarmaUddaraju/docker-basics)
+5. 📔 Created new repository [AdityaVarmaUddaraju/Booking-app](https://github.com/AdityaVarmaUddaraju/Booking-app)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 27th, 2022, 12:16:33 PM
+Last Updated: Sunday, March 27th, 2022, 12:53:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
