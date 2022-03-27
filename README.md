@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [AdityaVarmaUddaraju/Pages-app](https://github.com/AdityaVarmaUddaraju/Pages-app)
-2. 📔 Created new repository [AdityaVarmaUddaraju/django-hello-world](https://github.com/AdityaVarmaUddaraju/django-hello-world)
-3. 📔 Created new repository [AdityaVarmaUddaraju/ttd-with-django](https://github.com/AdityaVarmaUddaraju/ttd-with-django)
-4. 📔 Created new repository [AdityaVarmaUddaraju/docker-basics](https://github.com/AdityaVarmaUddaraju/docker-basics)
-5. 📔 Created new repository [AdityaVarmaUddaraju/Booking-app](https://github.com/AdityaVarmaUddaraju/Booking-app)
+1. 📔 Created new repository [AdityaVarmaUddaraju/Message-Board-App](https://github.com/AdityaVarmaUddaraju/Message-Board-App)
+2. 📔 Created new repository [AdityaVarmaUddaraju/Pages-app](https://github.com/AdityaVarmaUddaraju/Pages-app)
+3. 📔 Created new repository [AdityaVarmaUddaraju/django-hello-world](https://github.com/AdityaVarmaUddaraju/django-hello-world)
+4. 📔 Created new repository [AdityaVarmaUddaraju/ttd-with-django](https://github.com/AdityaVarmaUddaraju/ttd-with-django)
+5. 📔 Created new repository [AdityaVarmaUddaraju/docker-basics](https://github.com/AdityaVarmaUddaraju/docker-basics)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 27th, 2022, 2:33:57 PM
+Last Updated: Sunday, March 27th, 2022, 3:10:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
