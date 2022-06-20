@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#6](https://github.com/softchris/golang-book/pull/6) in [softchris/golang-book](https://github.com/softchris/golang-book)
-2. ❗️ Opened issue [#5](https://github.com/softchris/golang-book/issues/5) in [softchris/golang-book](https://github.com/softchris/golang-book)
-3. 📔 Created new repository [AdityaVarmaUddaraju/logger](https://github.com/AdityaVarmaUddaraju/logger)
-4. 💪 Opened PR [#4](https://github.com/softchris/golang-book/pull/4) in [softchris/golang-book](https://github.com/softchris/golang-book)
-5. 🔱 Forked [AdityaVarmaUddaraju/golang-book](https://github.com/AdityaVarmaUddaraju/golang-book) from [softchris/golang-book](https://github.com/softchris/golang-book)
+1. 🔱 Forked [AdityaVarmaUddaraju/RapidOCR](https://github.com/AdityaVarmaUddaraju/RapidOCR) from [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR)
+2. 💪 Opened PR [#6](https://github.com/softchris/golang-book/pull/6) in [softchris/golang-book](https://github.com/softchris/golang-book)
+3. ❗️ Opened issue [#5](https://github.com/softchris/golang-book/issues/5) in [softchris/golang-book](https://github.com/softchris/golang-book)
+4. 📔 Created new repository [AdityaVarmaUddaraju/logger](https://github.com/AdityaVarmaUddaraju/logger)
+5. 💪 Opened PR [#4](https://github.com/softchris/golang-book/pull/4) in [softchris/golang-book](https://github.com/softchris/golang-book)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 20th, 2022, 2:56:31 AM
+Last Updated: Monday, June 20th, 2022, 3:43:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
