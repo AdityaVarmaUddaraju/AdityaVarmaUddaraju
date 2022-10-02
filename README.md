@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [AdityaVarmaUddaraju/Text-Classification](https://github.com/AdityaVarmaUddaraju/Text-Classification)
-2. 💪 Opened PR [#715](https://github.com/WongKinYiu/yolov7/pull/715) in [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7)
-3. 🔱 Forked [AdityaVarmaUddaraju/yolov7](https://github.com/AdityaVarmaUddaraju/yolov7) from [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7)
-4. 📔 Created new repository [AdityaVarmaUddaraju/fastapi-tutorial](https://github.com/AdityaVarmaUddaraju/fastapi-tutorial)
+1. 📔 Created new repository [AdityaVarmaUddaraju/Perceptron](https://github.com/AdityaVarmaUddaraju/Perceptron)
+2. 📔 Created new repository [AdityaVarmaUddaraju/Text-Classification](https://github.com/AdityaVarmaUddaraju/Text-Classification)
+3. 💪 Opened PR [#715](https://github.com/WongKinYiu/yolov7/pull/715) in [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7)
+4. 🔱 Forked [AdityaVarmaUddaraju/yolov7](https://github.com/AdityaVarmaUddaraju/yolov7) from [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7)
 5. 📔 Created new repository [AdityaVarmaUddaraju/fastapi-tutorial](https://github.com/AdityaVarmaUddaraju/fastapi-tutorial)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 2nd, 2022, 3:45:28 PM
+Last Updated: Sunday, October 2nd, 2022, 4:17:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
