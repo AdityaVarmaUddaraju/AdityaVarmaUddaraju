@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [AdityaVarmaUddaraju/LogisticRegression](https://github.com/AdityaVarmaUddaraju/LogisticRegression)
-2. 📔 Created new repository [AdityaVarmaUddaraju/Adaline](https://github.com/AdityaVarmaUddaraju/Adaline)
-3. 📔 Created new repository [AdityaVarmaUddaraju/Perceptron](https://github.com/AdityaVarmaUddaraju/Perceptron)
-4. 📔 Created new repository [AdityaVarmaUddaraju/Text-Classification](https://github.com/AdityaVarmaUddaraju/Text-Classification)
-5. 💪 Opened PR [#715](https://github.com/WongKinYiu/yolov7/pull/715) in [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7)
+1. 📔 Created new repository [AdityaVarmaUddaraju/SVM](https://github.com/AdityaVarmaUddaraju/SVM)
+2. 📔 Created new repository [AdityaVarmaUddaraju/LogisticRegression](https://github.com/AdityaVarmaUddaraju/LogisticRegression)
+3. 📔 Created new repository [AdityaVarmaUddaraju/Adaline](https://github.com/AdityaVarmaUddaraju/Adaline)
+4. 📔 Created new repository [AdityaVarmaUddaraju/Perceptron](https://github.com/AdityaVarmaUddaraju/Perceptron)
+5. 📔 Created new repository [AdityaVarmaUddaraju/Text-Classification](https://github.com/AdityaVarmaUddaraju/Text-Classification)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 9th, 2022, 2:41:25 PM
+Last Updated: Sunday, October 9th, 2022, 3:14:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
