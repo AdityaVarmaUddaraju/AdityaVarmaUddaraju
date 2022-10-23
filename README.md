@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [AdityaVarmaUddaraju/SVM](https://github.com/AdityaVarmaUddaraju/SVM)
-2. 📔 Created new repository [AdityaVarmaUddaraju/LogisticRegression](https://github.com/AdityaVarmaUddaraju/LogisticRegression)
-3. 📔 Created new repository [AdityaVarmaUddaraju/Adaline](https://github.com/AdityaVarmaUddaraju/Adaline)
-4. 📔 Created new repository [AdityaVarmaUddaraju/Perceptron](https://github.com/AdityaVarmaUddaraju/Perceptron)
-5. 📔 Created new repository [AdityaVarmaUddaraju/Text-Classification](https://github.com/AdityaVarmaUddaraju/Text-Classification)
+1. 📔 Created new repository [AdityaVarmaUddaraju/nbdev-hello-world](https://github.com/AdityaVarmaUddaraju/nbdev-hello-world)
+2. 📔 Created new repository [AdityaVarmaUddaraju/SVM](https://github.com/AdityaVarmaUddaraju/SVM)
+3. 📔 Created new repository [AdityaVarmaUddaraju/LogisticRegression](https://github.com/AdityaVarmaUddaraju/LogisticRegression)
+4. 📔 Created new repository [AdityaVarmaUddaraju/Adaline](https://github.com/AdityaVarmaUddaraju/Adaline)
+5. 📔 Created new repository [AdityaVarmaUddaraju/Perceptron](https://github.com/AdityaVarmaUddaraju/Perceptron)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 23rd, 2022, 3:47:19 AM
+Last Updated: Sunday, October 23rd, 2022, 5:03:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
