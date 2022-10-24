@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [AdityaVarmaUddaraju/dl-from-foundations](https://github.com/AdityaVarmaUddaraju/dl-from-foundations)
-2. 📔 Created new repository [AdityaVarmaUddaraju/nbdev-hello-world](https://github.com/AdityaVarmaUddaraju/nbdev-hello-world)
-3. 📔 Created new repository [AdityaVarmaUddaraju/SVM](https://github.com/AdityaVarmaUddaraju/SVM)
-4. 📔 Created new repository [AdityaVarmaUddaraju/LogisticRegression](https://github.com/AdityaVarmaUddaraju/LogisticRegression)
-5. 📔 Created new repository [AdityaVarmaUddaraju/Adaline](https://github.com/AdityaVarmaUddaraju/Adaline)
+1. ❗️ Opened issue [#1181](https://github.com/fastai/nbdev/issues/1181) in [fastai/nbdev](https://github.com/fastai/nbdev)
+2. 📔 Created new repository [AdityaVarmaUddaraju/dl-from-foundations](https://github.com/AdityaVarmaUddaraju/dl-from-foundations)
+3. 📔 Created new repository [AdityaVarmaUddaraju/nbdev-hello-world](https://github.com/AdityaVarmaUddaraju/nbdev-hello-world)
+4. 📔 Created new repository [AdityaVarmaUddaraju/SVM](https://github.com/AdityaVarmaUddaraju/SVM)
+5. 📔 Created new repository [AdityaVarmaUddaraju/LogisticRegression](https://github.com/AdityaVarmaUddaraju/LogisticRegression)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 24th, 2022, 5:58:29 AM
+Last Updated: Monday, October 24th, 2022, 6:58:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
