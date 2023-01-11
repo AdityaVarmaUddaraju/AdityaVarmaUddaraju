@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1181](https://github.com/fastai/nbdev/issues/1181) in [fastai/nbdev](https://github.com/fastai/nbdev)
-2. 📔 Created new repository [AdityaVarmaUddaraju/dl-from-foundations](https://github.com/AdityaVarmaUddaraju/dl-from-foundations)
-3. 📔 Created new repository [AdityaVarmaUddaraju/nbdev-hello-world](https://github.com/AdityaVarmaUddaraju/nbdev-hello-world)
-4. 📔 Created new repository [AdityaVarmaUddaraju/SVM](https://github.com/AdityaVarmaUddaraju/SVM)
+1. 📔 Created new repository [AdityaVarmaUddaraju/doc_extractor](https://github.com/AdityaVarmaUddaraju/doc_extractor)
+2. ❗️ Opened issue [#1181](https://github.com/fastai/nbdev/issues/1181) in [fastai/nbdev](https://github.com/fastai/nbdev)
+3. 📔 Created new repository [AdityaVarmaUddaraju/dl-from-foundations](https://github.com/AdityaVarmaUddaraju/dl-from-foundations)
+4. 📔 Created new repository [AdityaVarmaUddaraju/nbdev-hello-world](https://github.com/AdityaVarmaUddaraju/nbdev-hello-world)
 5. 📔 Created new repository [AdityaVarmaUddaraju/LogisticRegression](https://github.com/AdityaVarmaUddaraju/LogisticRegression)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 11th, 2023, 8:38:35 AM
+Last Updated: Wednesday, January 11th, 2023, 9:12:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
