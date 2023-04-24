@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#31](https://github.com/fastai/diffusion-nbs/pull/31) in [fastai/diffusion-nbs](https://github.com/fastai/diffusion-nbs)
-2. 🔱 Forked [AdityaVarmaUddaraju/diffusion-nbs](https://github.com/AdityaVarmaUddaraju/diffusion-nbs) from [fastai/diffusion-nbs](https://github.com/fastai/diffusion-nbs)
-3. 🎉 Merged PR [#1](https://github.com/AdityaVarmaUddaraju/doc_extractor/pull/1) in [AdityaVarmaUddaraju/doc_extractor](https://github.com/AdityaVarmaUddaraju/doc_extractor)
+1. 🔱 Forked [AdityaVarmaUddaraju/fastai](https://github.com/AdityaVarmaUddaraju/fastai) from [fastai/fastai](https://github.com/fastai/fastai)
+2. 💪 Opened PR [#31](https://github.com/fastai/diffusion-nbs/pull/31) in [fastai/diffusion-nbs](https://github.com/fastai/diffusion-nbs)
+3. 🔱 Forked [AdityaVarmaUddaraju/diffusion-nbs](https://github.com/AdityaVarmaUddaraju/diffusion-nbs) from [fastai/diffusion-nbs](https://github.com/fastai/diffusion-nbs)
 4. 🤝 Became collaborator on [AdityaVarmaUddaraju/doc_extractor](https://github.com/AdityaVarmaUddaraju/doc_extractor)
 5. 📔 Created new repository [AdityaVarmaUddaraju/doc_extractor](https://github.com/AdityaVarmaUddaraju/doc_extractor)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 24th, 2023, 6:12:39 AM
+Last Updated: Monday, April 24th, 2023, 6:35:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
