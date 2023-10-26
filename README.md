@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [AdityaVarmaUddaraju/nbdev-tutorial](https://github.com/AdityaVarmaUddaraju/nbdev-tutorial)
-2. 🔱 Forked [AdityaVarmaUddaraju/fastai](https://github.com/AdityaVarmaUddaraju/fastai) from [fastai/fastai](https://github.com/fastai/fastai)
+1. 📔 Created new repository [AdityaVarmaUddaraju/miniai](https://github.com/AdityaVarmaUddaraju/miniai)
+2. 📔 Created new repository [AdityaVarmaUddaraju/nbdev-tutorial](https://github.com/AdityaVarmaUddaraju/nbdev-tutorial)
 3. 🔱 Forked [AdityaVarmaUddaraju/diffusion-nbs](https://github.com/AdityaVarmaUddaraju/diffusion-nbs) from [fastai/diffusion-nbs](https://github.com/fastai/diffusion-nbs)
 4. 🤝 Became collaborator on [AdityaVarmaUddaraju/doc_extractor](https://github.com/AdityaVarmaUddaraju/doc_extractor)
 5. 📔 Created new repository [AdityaVarmaUddaraju/doc_extractor](https://github.com/AdityaVarmaUddaraju/doc_extractor)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 26th, 2023, 7:08:38 AM
+Last Updated: Thursday, October 26th, 2023, 7:33:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
