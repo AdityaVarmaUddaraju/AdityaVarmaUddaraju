@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [AdityaVarmaUddaraju/miniai](https://github.com/AdityaVarmaUddaraju/miniai)
-2. 📔 Created new repository [AdityaVarmaUddaraju/nbdev-tutorial](https://github.com/AdityaVarmaUddaraju/nbdev-tutorial)
-3. 🔱 Forked [AdityaVarmaUddaraju/diffusion-nbs](https://github.com/AdityaVarmaUddaraju/diffusion-nbs) from [fastai/diffusion-nbs](https://github.com/fastai/diffusion-nbs)
-4. 🤝 Became collaborator on [AdityaVarmaUddaraju/doc_extractor](https://github.com/AdityaVarmaUddaraju/doc_extractor)
+1. ⭐ Starred [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
+2. ⭐ Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
+3. 📔 Created new repository [AdityaVarmaUddaraju/miniai](https://github.com/AdityaVarmaUddaraju/miniai)
+4. 📔 Created new repository [AdityaVarmaUddaraju/nbdev-tutorial](https://github.com/AdityaVarmaUddaraju/nbdev-tutorial)
 5. 📔 Created new repository [AdityaVarmaUddaraju/doc_extractor](https://github.com/AdityaVarmaUddaraju/doc_extractor)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 4th, 2024, 9:34:00 AM
+Last Updated: Thursday, January 4th, 2024, 10:10:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
