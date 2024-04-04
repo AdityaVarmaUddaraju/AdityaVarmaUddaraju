@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [AdityaVarmaUddaraju/webcrawlerhttp](https://github.com/AdityaVarmaUddaraju/webcrawlerhttp)
-2. ⭐ Starred [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
-3. ⭐ Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
-4. 📔 Created new repository [AdityaVarmaUddaraju/miniai](https://github.com/AdityaVarmaUddaraju/miniai)
-5. 📔 Created new repository [AdityaVarmaUddaraju/nbdev-tutorial](https://github.com/AdityaVarmaUddaraju/nbdev-tutorial)
+1. ⭐ Starred [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch)
+2. ⭐ Starred [plandex-ai/plandex](https://github.com/plandex-ai/plandex)
+3. 📔 Created new repository [AdityaVarmaUddaraju/webcrawlerhttp](https://github.com/AdityaVarmaUddaraju/webcrawlerhttp)
+4. ⭐ Starred [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
+5. ⭐ Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 4th, 2024, 8:13:05 AM
+Last Updated: Thursday, April 4th, 2024, 8:34:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
