@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [AdityaVarmaUddaraju/paytm](https://github.com/AdityaVarmaUddaraju/paytm)
-2. 📔 Created new repository [AdityaVarmaUddaraju/greenlight](https://github.com/AdityaVarmaUddaraju/greenlight)
-3. ⭐ Starred [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch)
-4. ⭐ Starred [plandex-ai/plandex](https://github.com/plandex-ai/plandex)
-5. ⭐ Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
+1. 📔 Created new repository [AdityaVarmaUddaraju/go-design-patterns](https://github.com/AdityaVarmaUddaraju/go-design-patterns)
+2. 📔 Created new repository [AdityaVarmaUddaraju/paytm](https://github.com/AdityaVarmaUddaraju/paytm)
+3. 📔 Created new repository [AdityaVarmaUddaraju/greenlight](https://github.com/AdityaVarmaUddaraju/greenlight)
+4. ⭐ Starred [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch)
+5. ⭐ Starred [plandex-ai/plandex](https://github.com/plandex-ai/plandex)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 24th, 2024, 4:33:20 AM
+Last Updated: Wednesday, April 24th, 2024, 5:10:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
