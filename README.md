@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.4.0](https://github.com/AdityaVarmaUddaraju/sutram/releases/tag/v0.4.0) in [AdityaVarmaUddaraju/sutram](https://github.com/AdityaVarmaUddaraju/sutram)
-2. ✌️ Released [v0.3.0](https://github.com/AdityaVarmaUddaraju/sutram/releases/tag/v0.3.0) in [AdityaVarmaUddaraju/sutram](https://github.com/AdityaVarmaUddaraju/sutram)
-3. ✌️ Released [v0.2.0](https://github.com/AdityaVarmaUddaraju/sutram/releases/tag/v0.2.0) in [AdityaVarmaUddaraju/sutram](https://github.com/AdityaVarmaUddaraju/sutram)
-4. ✌️ Released [v0.1.2](https://github.com/AdityaVarmaUddaraju/sutram/releases/tag/v0.1.2) in [AdityaVarmaUddaraju/sutram](https://github.com/AdityaVarmaUddaraju/sutram)
-5. 🔱 Forked [AdityaVarmaUddaraju/kickstart.nvim](https://github.com/AdityaVarmaUddaraju/kickstart.nvim) from [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
+1. ✌️ Released [v0.5.0](https://github.com/AdityaVarmaUddaraju/sutram/releases/tag/v0.5.0) in [AdityaVarmaUddaraju/sutram](https://github.com/AdityaVarmaUddaraju/sutram)
+2. ✌️ Released [v0.4.0](https://github.com/AdityaVarmaUddaraju/sutram/releases/tag/v0.4.0) in [AdityaVarmaUddaraju/sutram](https://github.com/AdityaVarmaUddaraju/sutram)
+3. ✌️ Released [v0.3.0](https://github.com/AdityaVarmaUddaraju/sutram/releases/tag/v0.3.0) in [AdityaVarmaUddaraju/sutram](https://github.com/AdityaVarmaUddaraju/sutram)
+4. ✌️ Released [v0.2.0](https://github.com/AdityaVarmaUddaraju/sutram/releases/tag/v0.2.0) in [AdityaVarmaUddaraju/sutram](https://github.com/AdityaVarmaUddaraju/sutram)
+5. ✌️ Released [v0.1.2](https://github.com/AdityaVarmaUddaraju/sutram/releases/tag/v0.1.2) in [AdityaVarmaUddaraju/sutram](https://github.com/AdityaVarmaUddaraju/sutram)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 25th, 2026, 9:47:00 AM
+Last Updated: Wednesday, March 25th, 2026, 10:41:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
